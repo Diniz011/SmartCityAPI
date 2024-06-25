@@ -1,0 +1,6 @@
+@SmartCityAPI_HostAddress = http://localhost:5008
+
+GET {{SmartCityAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
